@@ -24,4 +24,4 @@ The system successfully validates senior high-demand tech profiles. Testing a Da
 * Actionable Metric: Proceed with immediate recruitment and premium EU visa sponsorship workflow.
 
 ---
-Analyzed and Developed by: Mii
+Analyzed and Developed by: Siti_Nurmila
